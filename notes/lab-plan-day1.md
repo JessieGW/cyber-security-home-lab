@@ -18,9 +18,30 @@ Lab environment foundation is now established and ready for configuration and ne
 
 ## Next Steps
 - Configure Virtualbox networik (NAT vs Internal Network)
-- Validat Kali Linux networking and updates
+- Validate Kali Linux networking and updates
 - Begin network reconnaissance tools setup (NMap, Wireshark)
 - Document VM architecture with diagram
 ---
 ## Notes
 This documentation reflects setup after initial installation. Future builds will be documented step-by-step in real time.
+
+
+## Windows VM Setup (in progress)
+### Status
+- Windows ISO download started
+- Preparing to create Windows virtual machine in Virtualbox
+
+### Purpose
+- This VM will act as the target machine in the cybersecurity lab for testing, scanning, logging, and analysis tools.
+
+### Planned Configuration
+- OS: Windows 10 (64-bit)
+- RAM: 4-8 GB
+- Storage: 50-60 GB
+- Network: Internal Netowrk (Cyberlab)
+
+  ### Next Steps
+  - Complete Windows ISO download
+  - Create VM in Virtualbox
+  - Install Windows OS
+  - Configure Network Settings
