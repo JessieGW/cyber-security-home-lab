@@ -26,3 +26,7 @@ Build a controlled virtual lab environment using Virtualbox for cybersecurity pr
 
 ## Notes
 This lab is designed to simulate a basic attacker vs target environment for cybersecurity learning and portfolio development.
+
+## Windows Setup Status
+Windows VM is currently in the "still setting things up" stage after installation.
+This includes final configuration of user profile and system services before first stable login.
