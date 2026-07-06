@@ -17,3 +17,8 @@ All images document the Virtualbox Windows VM installation process.
 ## Windows Setup
 (windows-setup-start.png)
 **Windows VM Startup successful**
+
+## Successful Boot of Windows VM
+(baseline-system-state.png)
+**VM successfully installed, OS boot completed, environment ready for lab work**
+
