@@ -22,3 +22,6 @@ All images document the Virtualbox Windows VM installation process.
 (baseline-system-state.png)
 **VM successfully installed, OS boot completed, environment ready for lab work**
 
+## Side by Side VMs
+(side-by-side-machines.png)
+**Kali Linux and Windows 10 Pro running side by side**
