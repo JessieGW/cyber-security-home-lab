@@ -25,3 +25,11 @@ All images document the Virtualbox Windows VM installation process.
 ## Side by Side VMs
 (side-by-side-machines.png)
 **Kali Linux and Windows 10 Pro running side by side**
+
+## Kali Linux VM Network
+(kali-network-adapters.png)
+**Adapter 1-NAT, Adapter 2-Host-Only**
+
+## Windows 10 VM Network
+(windows-network-adapters.png)
+**Adapter 1-NAT, Adapter 2-Host-Only**
