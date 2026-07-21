@@ -26,10 +26,6 @@ All images document the Virtualbox Windows VM installation process.
 (side-by-side-machines.png)
 **Kali Linux and Windows 10 Pro running side by side**
 
-## IP Addressing
-(side-by-side-IP-config.png)
-**Kali and Windows diplaying IP addresses side by side**
-
 ## Kali Linux VM Network
 (kali-network-adapters.png)
 **Adapter 1-NAT, Adapter 2-Host-Only**
@@ -37,3 +33,11 @@ All images document the Virtualbox Windows VM installation process.
 ## Windows 10 VM Network
 (windows-network-adapters.png)
 **Adapter 1-NAT, Adapter 2-Host-Only**
+
+## IP Addressing
+(side-by-side-IP-config.png)
+**Kali and Windows diplaying IP addresses side by side**
+
+## ICMP between Machines
+(kali-to-windows-ping.png),(windows-to-kali-ping.png)
+**Successful ping between VMs from both directions**
